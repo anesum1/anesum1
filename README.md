@@ -11,7 +11,7 @@
 - <b>Python Coding Projects</b>
   - [Python Project 1](https://github.com/anesum1/Python-100-days)
     
-<h2>📰Medium Blog articles</h2>
+<h2>📰Medium Blogposts</h2>
 
 - [Bash Scripting for Beginners](https://medium.com/@ane.masawi/bash-scripting-for-beginners-96a62f0eb027)
 - [Mastering Git and GitHub: A Summary](https://medium.com/@ane.masawi/mastering-git-and-github-a-summary-9504804a7ca3)
