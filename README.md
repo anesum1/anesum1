@@ -3,7 +3,7 @@
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>Bash Projects</b>
-  - [Password generator](https://github.com/anesum1/Bash-Projects)
+  - [Password generator](https://github.com/anesum1/Bash-Projects/tree/master)
   - [Policy Checker](https://github.com/anesum1/Bash-Projects)
   - [Log scanner](https://github.com/anesum1/Bash-Projects)
 - <b>Azure/Cloud Cyberecurity Project</b>
