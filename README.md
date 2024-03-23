@@ -6,7 +6,7 @@ Having made the leap from Anaesthetic Practitioner to Cybersecurity Analyst in 2
 - <b><a href="https://github.com/anesum1/Bash-Projects/tree/main">Bash Projects</a></b>
   - Password generator
   - Policy Checker
-  - Failed login scanner
+  - Automated failed login scanner
 - <b>Azure/Cloud Cyberecurity Project</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/CyberLocd/Azure-SOC/tree/main) 
 - <b>Python Coding Projects</b>
