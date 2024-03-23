@@ -7,10 +7,10 @@ Having made the leap from Anaesthetic Practitioner to Cybersecurity Analyst in 2
   - Password generator
   - Policy Checker
   - Automated failed login scanner
-- <b>Azure/Cloud Cyberecurity Project</b>
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/CyberLocd/Azure-SOC/tree/main) 
-- <b>Python Coding Projects</b>
-  - [Python Project 1](https://github.com/anesum1/Python-100-days)
+- <b><a href="https://github.com/CyberLocd/Azure-SOC/tree/main">Azure/Cloud Cyberecurity Project</a></b>
+  - Creating a live SOC/Honeynet in Azure 
+- <b><a href="https://github.com/anesum1/Python-100-days">Python Coding Projects</a></b>
+  
     
 <h2>📰Medium Blogposts</h2>
 
