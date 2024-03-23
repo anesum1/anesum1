@@ -2,10 +2,10 @@
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
-- <b>Bash Projects</b>
-  - [Password generator](https://github.com/anesum1/Bash-Projects/tree/main)
-  - [Policy Checker](https://github.com/anesum1/Bash-Projects)
-  - [Log scanner](https://github.com/anesum1/Bash-Projects)
+- <b><a href="https://github.com/anesum1/Bash-Projects/tree/main">Bash Projects</a></b>
+  - Password generator
+  - Policy Checker
+  - Log scanner
 - <b>Azure/Cloud Cyberecurity Project</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/CyberLocd/Azure-SOC/tree/main) 
 - <b>Python Coding Projects</b>
