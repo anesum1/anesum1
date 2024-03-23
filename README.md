@@ -1,4 +1,5 @@
-<h1>Hi, I'm Anesu! <br/> <a href="https://www.linkedin.com/in/anesu-m-74b760253/">Cybersecurity Professional</a></h1>
+<h1>👋🏾Hi, I'm Anesu! <br/> <a href="https://www.linkedin.com/in/anesu-m-74b760253/">Cybersecurity Professional</a></h1>
+Having made the leap from Anaesthetic Practitioner to Cybersecurity Analyst in 2023, I've embraced a thrilling new chapter in my career journey. My journey into this fascinating field was ignited by the impactful 2017 WannaCry ransomware attack on NHS hospitals, which sparked within me a profound interest in cybersecurity and  dedication to solving complex problems. With an unquenchable thirst for learning and a commitment to thrive in this dynamic field, I am eagerly seeking opportunities to advance and grow in my cybersecurity career.
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
