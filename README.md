@@ -14,6 +14,7 @@ Having made the leap from Anaesthetic Practitioner to Cybersecurity Analyst in 2
     
 <h2>📰Medium Blogposts</h2>
 
+- [Bas projects for beginners](https://medium.com/p/ded7db5473bb)
 - [Bash Scripting for Beginners](https://medium.com/@ane.masawi/bash-scripting-for-beginners-96a62f0eb027)
 - [Mastering Git and GitHub: A Summary](https://medium.com/@ane.masawi/mastering-git-and-github-a-summary-9504804a7ca3)
 - [Diving into Linux: A Command Line Adventure](https://medium.com/@ane.masawi/diving-into-linux-a-command-line-adventure-90adc7658a44)
